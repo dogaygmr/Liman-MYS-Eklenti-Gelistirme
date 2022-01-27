@@ -1,0 +1,2 @@
+# Liman-MYS-Eklenti-Gelistirme
+Havelsan'ın geliştirdiği Liman Merkezi Yönetim Sistemi (Liman MYS) BT süreçlerini uzaktan yönetmeyi sağlar. Liman mimarisi PHP dili kullanılarak Laravel Framework'ü ile geliştirilmiştir. Liman MYS özellikleri eklenti olarak isimlendirilen paket yönetim sistemi baz alınarak tasarlanmış. Katıldığım Havelsan Teknoloji Kampında yaptığım eklenti geliştirme projesinin ilgili kodlarını burada bulabilirsiniz.
